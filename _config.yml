@@ -4,9 +4,9 @@ highlighter:      pygments
 
 # Setup
 title:            Heybys
-tagline:          'A Jekyll theme'
+tagline:          'Blog'
 description:      'Application Developer<br /><a href="https://github.com/heybys" target="_blank">변영석</a>'
-url:              http://hyde.getpoole.com
+url:              heybys.github.io
 baseurl:          /
 
 author:
