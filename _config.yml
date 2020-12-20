@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Setup
+title:            Heybys
+tagline:          'A Jekyll theme'
+description:      'Application Developer<br /><a href="https://github.com/heybys" target="_blank">변영석</a>'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'heybys'
+  url:            https://github.com/heybys
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/heybys
